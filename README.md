@@ -1,4 +1,4 @@
-# AI-Chatbot;C NN Image Classification with Transfer Learning
+# AI-Chatbot; CNN Image Classification with Transfer Learning
 Hello again, and let me introduce to you one of the hardest projects i've worked on! My CNN Image Classification Project! This project explores the power of Convolutional Neural Networks (CNNs) in image classification, using a combination of traditional CNN architectures and transfer learning.
 CNNs, inspired by the visual processing structures in the human brain, play a central role in modern computer vision by extracting complex features from raw image data.
 
